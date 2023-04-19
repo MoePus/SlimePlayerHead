@@ -1,0 +1,13 @@
+{
+    "item.slimeph.slime_player_head": "玩家粘液头颅",
+
+    "modifier.slimeph.glower":"发光者",
+    "modifier.slimeph.glower.flavor":"俺就是玩家",
+    "modifier.slimeph.glower.description":"使用“头盔交互”键时，自信放光芒",
+
+    "modifier.slimeph.player_disguise": "玩家伪装",
+    "modifier.slimeph.player_disguise.flavor": "来点换位思考？",
+    "modifier.slimeph.player_disguise.description": "对于玩家来说，你看起来更像一个玩家了",
+
+    "__END__": "__END__"
+}

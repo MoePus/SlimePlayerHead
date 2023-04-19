@@ -1,0 +1,31 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[32,)" #mandatory
+
+authors="MoePus" #optional
+
+license="MIT License" #mandatory
+
+[[mods]] #mandatory
+
+modId="slimeph" #mandatory
+
+version="1.0.0" #mandatory
+
+displayName="SlimePlayerHead" #mandatory
+
+description='''Slime Player Head for Tinkers Construct 3'''
+
+[[dependencies.apotheosis]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[40.1.68,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.apotheosis]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,)"
+    ordering="NONE"
+    side="BOTH"

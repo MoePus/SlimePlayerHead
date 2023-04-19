@@ -1,0 +1,13 @@
+{
+    "item.slimeph.slime_player_head": "Player Slimeskull",
+
+    "modifier.slimeph.glower":"Glower",
+    "modifier.slimeph.glower.flavor":"A confident glow",
+    "modifier.slimeph.glower.description":"Allows you to glow by interacting with your helmet",
+
+    "modifier.slimeph.player_disguise": "Player Disguise",
+    "modifier.slimeph.player_disguise.flavor": "Do some transpositional consideration?",
+    "modifier.slimeph.player_disguise.description": "Makes you look more like a player to other players",
+
+    "__END__": "__END__"
+}

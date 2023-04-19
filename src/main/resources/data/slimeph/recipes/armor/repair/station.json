@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:specialized_station_repair",
+  "tool": [
+    {
+      "item": "slimeph:slime_player_head"
+    }
+  ],
+  "repair_material": "tconstruct:enderslime"
+}

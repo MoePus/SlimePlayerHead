@@ -1,0 +1,13 @@
+{
+    "item.slimeph.slime_player_head": "プレーヤーのスライムスカル",
+
+    "modifier.slimeph.glower":"発光者",
+    "modifier.slimeph.glower.flavor":"自信に満ちた輝き",
+    "modifier.slimeph.glower.description":"あなたが輝くことができる",
+
+    "modifier.slimeph.player_disguise": "プレーヤー偽装",
+    "modifier.slimeph.player_disguise.flavor": "共感しよう",
+    "modifier.slimeph.player_disguise.description": "見た目がプレーヤーそっくりになる",
+
+    "__END__": "__END__"
+}

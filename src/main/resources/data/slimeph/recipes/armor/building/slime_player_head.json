@@ -1,0 +1,13 @@
+{
+  "type": "slimeph:casting_basin_copy_nbt",
+  "cast": {
+    "item": "minecraft:player_head"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "tag": "tconstruct:ender_slime",
+    "amount": 5000
+  },
+  "result": "slimeph:slime_player_head",
+  "cooling_time": 237
+}

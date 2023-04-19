@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "base": {
+      "tconstruct:durability": 1600.0,
+      "tconstruct:armor": 1.0,
+      "tconstruct:armor_toughness": 1.0,
+      "tconstruct:knockback_resistance": 0.1
+    }
+  },
+  "slots": {
+    "upgrades": 3,
+    "defense": 0,
+    "abilities": 3
+  },
+  "traits": [
+    {
+      "name": "tconstruct:overslime_friend",
+      "level": 1
+    },
+    {
+      "name": "slimeph:glower",
+      "level": 1
+    },
+    {
+      "name": "slimeph:player_disguise",
+      "level": 1
+    }
+  ]
+}
